@@ -14,7 +14,7 @@ export const Heroes = () => {
                     <Image
                         src="/Fast-Internet.svg"
                         fill
-                        className="invert object-contain hidden dark:block"
+                        className="invert contrast-200 object-contain hidden dark:block"
                         alt="Fast Internet"
                     />
                 </div>
@@ -28,7 +28,7 @@ export const Heroes = () => {
                     <Image
                         src="/Chill-Time.svg"
                         fill
-                        className="invert object-contain hidden dark:block"
+                        className="invert contrast-200 object-contain hidden dark:block"
                         alt="Chill Time"
                     />
                 </div>
